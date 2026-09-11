@@ -1,0 +1,6 @@
+{
+  "name": "CrisisBridge",
+  "description": "Emergency report intake that transforms unstructured bystander text and photos into structured, actionable incident reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
